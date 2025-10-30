@@ -1,0 +1,12 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+        "stage1": "./workflow_stage1.py:build_workflow",
+        "plot": "./workflow_plot_v2.py:plot"
+    },
+    "env": "./.env",
+    "python_version": "3.11",
+    "dependencies": [
+        "."
+    ]
+}

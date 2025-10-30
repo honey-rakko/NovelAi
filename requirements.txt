@@ -1,0 +1,8 @@
+langgraph
+langgraph-cli[inmem]
+langchain-core
+langchain-community
+langchain-openai
+trustcall
+langchain-anthropic
+flask
